@@ -1,0 +1,4 @@
+(library
+ (public_name alpaca)
+ (name alpaca)
+ (libraries eio_main eio))
